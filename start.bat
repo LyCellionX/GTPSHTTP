@@ -1,5 +1,5 @@
 @echo off
-title Fush-Guard
+title Ly Guard
 color a
 :loop
 node index.js
