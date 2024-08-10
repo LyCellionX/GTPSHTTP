@@ -1,4 +1,4 @@
-# GTPSWebServer
+# GTPSHTTP
 
 HTTPServer for Growtopia Private Server to login and play GTPS
 
