@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "find": "^0.3.0",
+    "gradient-string": "^2.0.2"
+  }
+}
